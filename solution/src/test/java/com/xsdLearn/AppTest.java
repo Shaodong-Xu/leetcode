@@ -1,4 +1,4 @@
-package org.xsd;
+package com.xsdLearn;
 
 import static org.junit.Assert.assertTrue;
 
