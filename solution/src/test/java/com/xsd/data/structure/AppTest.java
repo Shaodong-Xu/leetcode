@@ -1,4 +1,4 @@
-package com.xsdLearn;
+package com.xsd.data.structure;
 
 import static org.junit.Assert.assertTrue;
 
