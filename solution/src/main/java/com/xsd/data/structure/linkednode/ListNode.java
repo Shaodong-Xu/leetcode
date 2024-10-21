@@ -1,4 +1,4 @@
-package com.xsd.data.structure.LinkedList;
+package com.xsd.data.structure.linkednode;
 
 public class ListNode {
     public int val;

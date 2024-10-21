@@ -1,6 +1,6 @@
-package com.xsd.data.structure.LinkedList.leetcode206;
+package com.xsd.data.structure.linkednode.leetcode206;
 
-import com.xsd.data.structure.LinkedList.ListNode;
+import com.xsd.data.structure.linkednode.ListNode;
 
 public class Test {
 
